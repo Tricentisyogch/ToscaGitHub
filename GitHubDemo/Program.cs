@@ -11,6 +11,8 @@ namespace GitHubDemo
         static void Main(string[] args)
         {
             Console.WriteLine("GitHub Demo");
+            Console.WriteLine("GitHub Merge");
+
         }
     }
 }
