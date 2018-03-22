@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace GitHubDemo
 {
@@ -12,6 +8,7 @@ namespace GitHubDemo
         {
             Console.WriteLine("GitHub Demo");
             Console.WriteLine("GitHub Merge");
+            Console.WriteLine("GitHub Master Chnages");
 
         }
     }
